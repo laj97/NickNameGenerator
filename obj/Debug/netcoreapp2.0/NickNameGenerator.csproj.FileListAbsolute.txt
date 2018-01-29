@@ -1,0 +1,10 @@
+/Users/Guero/NickNameGenerator/bin/Debug/netcoreapp2.0/NickNameGenerator.deps.json
+/Users/Guero/NickNameGenerator/bin/Debug/netcoreapp2.0/NickNameGenerator.runtimeconfig.json
+/Users/Guero/NickNameGenerator/bin/Debug/netcoreapp2.0/NickNameGenerator.runtimeconfig.dev.json
+/Users/Guero/NickNameGenerator/bin/Debug/netcoreapp2.0/NickNameGenerator.dll
+/Users/Guero/NickNameGenerator/bin/Debug/netcoreapp2.0/NickNameGenerator.pdb
+/Users/Guero/NickNameGenerator/obj/Debug/netcoreapp2.0/NickNameGenerator.csproj.CoreCompileInputs.cache
+/Users/Guero/NickNameGenerator/obj/Debug/netcoreapp2.0/NickNameGenerator.AssemblyInfoInputs.cache
+/Users/Guero/NickNameGenerator/obj/Debug/netcoreapp2.0/NickNameGenerator.AssemblyInfo.cs
+/Users/Guero/NickNameGenerator/obj/Debug/netcoreapp2.0/NickNameGenerator.dll
+/Users/Guero/NickNameGenerator/obj/Debug/netcoreapp2.0/NickNameGenerator.pdb
